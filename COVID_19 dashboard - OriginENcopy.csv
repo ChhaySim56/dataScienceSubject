@@ -1,0 +1,346 @@
+nationality_en,province_en,gender_en,age,infected,reinfected,reinfected_date,recovered,death,recovered_date,localtrans,foreigntrans,active,created_at,modified_at
+Chinese,Preah Sihanouk,Male,60,1,,,1,0,2/10/2020 0:00,0,1,0,1/27/2020 0:00,2/10/2020 0:00
+Khmer,Siem Reap,Male,38,1,,,1,0,3/29/2020 0:00,1,0,0,3/7/2020 0:00,3/29/2020 0:00
+English,Kampong Cham,Female,65,1,,,1,0,3/21/2020 0:00,0,1,0,3/10/2020 0:00,3/21/2020 0:00
+English,Kampong Cham,Male,73,1,,,1,0,3/28/2020 0:00,0,1,0,3/12/2020 0:00,3/28/2020 0:00
+English,Kampong Cham,Female,69,1,,,1,0,3/28/2020 0:00,0,1,0,3/12/2020 0:00,3/28/2020 0:00
+Canadian,Phnom Penh,Male,49,1,,,1,0,4/18/2020 0:41,0,1,0,3/13/2020 0:00,
+Belgium,Phnom Penh,Male,33,1,,,1,0,4/1/2020 0:00,0,1,0,3/13/2020 0:00,4/1/2020 0:00
+French,Phnom Penh,Male,35,1,,,1,0,4/27/2020 2:27,0,1,0,3/15/2020 0:00,
+Khmer,Phnom Penh,Male,39,1,,,1,0,4/3/2020 0:00,0,1,0,3/15/2020 0:00,4/3/2020 0:00
+French,Phnom Penh,Male,0.4,1,,,1,0,4/2/2020 0:00,0,1,0,3/15/2020 0:00,4/2/2020 0:00
+Khmer,Preah Vihear,Male,35,1,,,1,0,4/10/2020 1:27,0,1,0,3/15/2020 0:00,
+Khmer,Preah Vihear,Male,39,1,,,1,0,3/28/2020 0:00,0,1,0,3/15/2020 0:00,3/28/2020 0:00
+Khmer,Banteay Meanchey,Male,41,1,,,1,0,3/27/2020 0:00,0,1,0,3/16/2020 0:00,3/27/2020 0:00
+Khmer,Banteay Meanchey,Male,35,1,,,1,0,3/29/2020 0:00,0,1,0,3/16/2020 0:00,3/29/2020 0:00
+Khmer,Phnom Penh,Male,63,1,,,1,0,3/28/2020 0:00,0,1,0,3/16/2020 0:00,3/28/2020 0:00
+Khmer,Phnom Penh,Male,64,1,,,1,0,3/27/2020 0:00,0,1,0,3/16/2020 0:00,3/27/2020 0:00
+Khmer,Kampong Chhnang,Male,75,1,,,1,0,5/12/2020 1:13,0,1,0,3/16/2020 0:00,
+Khmer,Kampong Chhnang,Male,28,1,,,1,0,4/6/2020 0:00,0,1,0,3/16/2020 0:00,4/7/2020 0:00
+Khmer,Battambang,Male,45,1,,,1,0,4/15/2020 1:55,0,1,0,3/16/2020 0:00,
+Khmer,Battambang,Male,42,1,,,1,0,3/24/2020 0:00,0,1,0,3/16/2020 0:00,3/24/2020 0:00
+Khmer,Battambang,Male,30,1,,,1,0,3/28/2020 0:00,0,1,0,3/16/2020 0:00,3/28/2020 0:00
+Khmer,Battambang,Male,41,1,,,1,0,3/24/2020 0:00,0,1,0,3/16/2020 0:00,3/24/2020 0:00
+Khmer,Kep,Male,30,1,,,1,0,3/31/2020 0:00,0,1,0,3/16/2020 0:00,3/31/2020 0:00
+Khmer,Thbong Khmom,Male,61,1,,,1,0,3/24/2020 0:00,0,1,0,3/16/2020 0:00,3/24/2020 0:00
+Khmer,Siem Reap,Male,40,1,,,1,0,4/1/2020 0:00,0,1,0,3/17/2020 0:00,4/1/2020 0:00
+Khmer,Phnom Penh,Male,27,1,,,1,0,3/28/2020 0:00,0,1,0,3/17/2020 0:00,3/28/2020 0:00
+Khmer,Phnom Penh,Male,40,1,,4/9/2020 3:57,1,0,4/15/2020 1:56,0,1,0,3/17/2020 0:00,4/7/2020 0:00
+Khmer,Kampong Chhnang,Male,36,1,,,1,0,3/28/2020 0:00,0,1,0,3/17/2020 0:00,3/28/2020 0:00
+Malaysian,Kep,Male,58,1,,,1,0,4/10/2020 1:27,0,1,0,3/17/2020 0:00,
+Malaysian,Kep,Male,61,1,,,1,0,3/31/2020 0:00,0,1,0,3/17/2020 0:00,3/31/2020 0:00
+Malaysian,Kep,Male,66,1,,,1,0,4/25/2020 0:12,0,1,0,3/17/2020 0:00,
+Khmer,Koh Kong,Male,57,1,,,1,0,3/26/2020 0:00,0,1,0,3/17/2020 0:00,3/26/2020 0:00
+Khmer,Thbong Khmom,Male,53,1,,,1,0,3/24/2020 0:00,0,1,0,3/17/2020 0:00,3/24/2020 0:00
+Malaysian,Kampot,Male,60,1,,,1,0,4/3/2020 0:00,0,1,0,3/18/2020 0:00,4/3/2020 0:00
+Malaysian,Kampot,Male,64,1,,,1,0,4/3/2020 0:00,0,1,0,3/18/2020 0:00,4/3/2020 0:00
+Khmer,Thbong Khmom,Male,71,1,,,1,0,3/25/2020 0:00,0,1,0,3/18/2020 0:00,3/25/2020 0:00
+Khmer,Thbong Khmom,Male,52,1,,,1,0,3/25/2020 0:00,0,1,0,3/18/2020 0:00,3/25/2020 0:00
+Khmer,Battambang,Female,35,1,,,1,0,4/3/2020 0:00,1,0,0,3/19/2020 0:00,4/3/2020 0:00
+Khmer,Battambang,Female,41,1,,,1,0,4/15/2020 1:56,1,0,0,3/19/2020 0:00,
+Khmer,Kandal,Male,60,1,,,1,0,4/3/2020 0:00,0,1,0,3/19/2020 0:00,4/3/2020 0:00
+Khmer,Phnom Penh,Male,34,1,,,1,0,3/25/2020 0:00,0,1,0,3/19/2020 0:00,3/25/2020 0:00
+Malaysian,Kampong Cham,Male,26,1,,,1,0,4/5/2020 0:00,0,1,0,3/19/2020 0:00,4/5/2020 0:00
+Malaysian,Kampong Cham,Male,34,1,,,1,0,4/12/2020 1:44,0,1,0,3/19/2020 0:00,
+Malaysian,Kampong Cham,Male,34,1,,,1,0,4/15/2020 1:54,0,1,0,3/19/2020 0:00,
+Malaysian,Kampong Cham,Male,51,1,,,1,0,4/15/2020 1:54,0,1,0,3/19/2020 0:00,
+Malaysian,Kampong Cham,Male,58,1,,,1,0,4/12/2020 1:44,0,1,0,3/19/2020 0:00,
+Malaysian,Kampong Cham,Male,62,1,,,1,0,4/4/2020 0:00,0,1,0,3/19/2020 0:00,4/4/2020 0:00
+Malaysian,Kampong Cham,Male,39,1,,,1,0,4/5/2020 0:00,0,1,0,3/20/2020 0:00,4/5/2020 0:00
+Khmer,Phnom Penh,Male,33,1,,,1,0,3/25/2020 0:00,1,0,0,3/20/2020 0:00,3/25/2020 0:00
+Khmer,Battambang,Male,48,1,,,1,0,4/20/2020 2:36,0,1,0,3/20/2020 0:00,
+Khmer,Battambang,Male,38,1,,,1,0,4/18/2020 0:41,0,1,0,3/20/2020 0:00,
+French,Preah Sihanouk,Male,67,1,,,1,0,4/8/2020 1:52,0,1,0,3/21/2020 0:00,
+French,Preah Sihanouk,Male,80,1,,,1,0,4/16/2020 1:44,0,1,0,3/21/2020 0:00,
+French,Preah Sihanouk,Female,48,1,,,1,0,4/11/2020 1:31,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,59,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Female,66,1,,,1,0,4/14/2020 1:01,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,61,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Female,63,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Female,59,1,,,1,0,4/14/2020 1:27,0,1,0,3/22/2020 0:00,4/14/2020 1:27
+French,Preah Sihanouk,Female,62,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Female,66,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Female,59,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Female,63,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Female,76,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Female,60,1,,,1,0,4/14/2020 1:01,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,63,1,,,1,0,4/9/2020 1:33,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,60,1,,,1,0,4/14/2020 1:02,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,69,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Female,69,1,,,1,0,4/14/2020 1:02,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Female,59,1,,,1,0,4/9/2020 1:36,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Male,66,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Male,61,1,,,1,0,4/14/2020 1:26,0,1,0,3/22/2020 0:00,4/14/2020 1:26
+French,Preah Sihanouk,Male,69,1,,,1,0,3/28/2020 0:00,0,1,0,3/22/2020 0:00,3/28/2020 0:00
+French,Preah Sihanouk,Male,70,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Male,63,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Male,63,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Male,63,1,,,1,0,4/3/2020 0:00,0,1,0,3/22/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Male,52,1,,,1,0,4/1/2020 0:00,0,1,0,3/22/2020 0:00,4/1/2020 0:00
+French,Preah Sihanouk,Male,63,1,,,1,0,4/8/2020 2:45,0,1,0,3/22/2020 0:00,4/8/2020 2:42
+French,Preah Sihanouk,Male,62,1,,,1,0,4/9/2020 1:34,0,1,0,3/22/2020 0:00,
+French,Preah Sihanouk,Male,63,1,,,1,0,4/9/2020 3:51,0,1,0,3/22/2020 0:00,4/9/2020 3:53
+French,Preah Sihanouk,Male,58,1,,,1,0,4/14/2020 0:58,0,1,0,3/22/2020 0:00,
+Khmer,Preah Sihanouk,Male,39,1,,,1,0,4/3/2020 0:00,1,0,0,3/22/2020 0:00,4/3/2020 0:00
+Khmer,Preah Sihanouk,Male,33,1,,,1,0,4/14/2020 1:07,1,0,0,3/22/2020 0:00,
+Khmer,Kampong Cham,Male,45,1,,,1,0,4/10/2020 1:27,0,1,0,3/23/2020 0:00,
+Khmer,Koh Kong,Male,36,1,,,1,0,4/11/2020 1:37,0,1,0,3/23/2020 0:00,
+French,Phnom Penh,Female,28,1,,,1,0,4/27/2020 2:27,1,0,0,3/23/2020 0:00,
+English,Kampong Cham,Male,61,1,,,1,0,4/18/2020 0:39,0,1,0,3/24/2020 0:00,
+English,Kampong Cham,Female,79,1,,,1,0,4/9/2020 1:31,0,1,0,3/24/2020 0:00,
+American,Kampong Cham,Male,59,1,,,1,0,4/18/2020 0:40,0,1,0,3/24/2020 0:00,
+American,Kampong Cham,Female,62,1,,,1,0,4/18/2020 0:40,0,1,0,3/24/2020 0:00,
+French,Preah Sihanouk,Male,64,1,,,1,0,4/3/2020 0:00,0,1,0,3/25/2020 0:00,4/3/2020 0:00
+French,Preah Sihanouk,Female,60,1,,,1,0,4/14/2020 1:04,0,1,0,3/25/2020 0:00,
+Khmer,Phnom Penh,Male,28,1,,,1,0,4/8/2020 1:59,0,1,0,3/25/2020 0:00,4/8/2020 2:40
+Khmer,Kandal,Male,59,1,,,1,0,4/10/2020 1:25,1,0,0,3/25/2020 0:00,
+Khmer,Siem Reap,Male,37,1,,,1,0,4/25/2020 0:12,1,0,0,3/25/2020 0:00,
+Indonesian,Siem Reap,Male,41,1,,,1,0,4/14/2020 1:08,0,1,0,3/26/2020 0:00,
+Indonesian,Siem Reap,Male,44,1,,,1,0,4/14/2020 1:08,0,1,0,3/26/2020 0:00,
+Khmer,Phnom Penh,Male,62,1,,,1,0,4/11/2020 1:35,0,1,0,3/26/2020 0:00,
+Khmer,Phnom Penh,Female,61,1,,,1,0,4/6/2020 0:00,0,1,0,3/26/2020 0:00,4/6/2020 0:00
+Khmer,Phnom Penh,Male,39,1,,,1,0,4/14/2020 1:09,0,1,0,3/26/2020 0:00,
+Khmer,Phnom Penh,Female,37,1,,,1,0,4/8/2020 1:54,0,1,0,3/26/2020 0:00,
+Khmer,Banteay Meanchey,Female,36,1,,,1,0,5/16/2020 1:15,1,0,0,3/28/2020 0:00,
+Khmer,Banteay Meanchey,Male,30,1,,,1,0,4/6/2020 0:00,1,0,0,3/29/2020 0:00,4/6/2020 0:00
+Khmer,Phnom Penh,Male,36,1,,,1,0,4/8/2020 1:54,0,1,0,3/29/2020 0:00,
+Khmer,Phnom Penh,Female,20,1,,,1,0,4/25/2020 0:13,0,1,0,3/29/2020 0:00,
+French,Phnom Penh,Male,61,1,,,1,0,4/16/2020 1:45,0,1,0,3/29/2020 0:00,
+Khmer,Siem Reap,Female,39,1,,,1,0,4/20/2020 11:51,1,0,0,3/30/2020 0:00,
+Khmer,Siem Reap,Male,12,1,,,1,0,4/19/2020 0:13,1,0,0,3/30/2020 0:00,
+Khmer,Preah Sihanouk,Male,58,1,,,1,0,5/2/2020 10:29,1,0,0,4/1/2020 0:00,
+French,Preah Sihanouk,Male,66,1,,,1,0,4/14/2020 1:23,0,1,0,4/2/2020 0:00,4/14/2020 1:23
+French,Preah Sihanouk,Female,67,1,,,1,0,4/9/2020 1:37,0,1,0,4/2/2020 0:00,
+French,Preah Sihanouk,Female,59,1,,,1,0,4/14/2020 1:04,0,1,0,4/2/2020 0:00,
+Malaysian,Kampong Cham,Male,40,1,,,1,0,4/5/2020 0:00,0,1,0,4/2/2020 0:00,4/5/2020 0:00
+Vietnamese,Phnom Penh,Female,27,1,,,1,0,4/25/2020 0:14,1,0,0,4/7/2020 0:00,4/11/2020 2:04
+Khmer,Phnom Penh,Male,47,1,,,1,0,4/21/2020 1:05,1,0,0,4/8/2020 1:50,
+Khmer,Phnom Penh,Female,45,1,,,1,0,4/21/2020 1:06,1,0,0,4/8/2020 1:51,
+Chinese,Phnom Penh,Female,30,1,,,1,0,4/25/2020 0:22,1,0,0,4/9/2020 1:30,4/25/2020 0:22
+Vietnamese,Phnom Penh,Female,34,1,0,,1,0,4/19/2020 0:12,1,0,0,4/10/2020 1:24,4/11/2020 2:05
+Chinese,Phnom Penh,Female,31,1,0,,1,0,4/25/2020 0:16,1,0,0,4/11/2020 1:30,4/11/2020 2:06
+Vietnamese,Phnom Penh,Female,24,1,0,,1,0,4/25/2020 0:15,1,0,0,4/12/2020 1:42,
+Canadian,Phnom Penh,Male,50,1,0,,1,0,4/21/2020 1:06,1,0,0,4/12/2020 1:43,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,6/17/2020 1:47,0,1,0,5/21/2020 14:11,
+Khmer,Phnom Penh,Female,39,1,0,,1,0,5/30/2020 0:25,0,1,0,5/23/2020 0:13,
+Khmer,Banteay Meanchey,Male,26,1,0,,1,0,6/8/2020 1:31,0,1,0,5/30/2020 0:25,
+Khmer,Phnom Penh,Male,30,1,0,,1,0,6/10/2020 1:37,0,1,0,6/7/2020 1:12,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,6/29/2020 1:34,0,1,0,6/14/2020 1:30,
+Khmer,Phnom Penh,Male,22,1,0,,1,0,6/21/2020 1:06,0,1,0,6/14/2020 1:31,
+Khmer,Phnom Penh,Male,21,1,0,,1,0,6/24/2020 1:57,0,1,0,6/18/2020 2:18,
+Khmer,Phnom Penh,Male,66,1,0,,1,0,6/27/2020 2:52,0,1,0,6/23/2020 2:07,
+Khmer,Phnom Penh,Female,29,1,0,,1,0,,0,1,0,6/27/2020 2:55,6/27/2020 3:02
+Khmer,Phnom Penh,Male,23,1,0,,1,0,7/13/2020 5:54,0,1,0,6/27/2020 2:55,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/1/2020,0,1,0,6/27/2020 2:56,
+Khmer,Phnom Penh,Male,22,1,0,,1,0,8/13/2020,0,1,0,6/27/2020 2:57,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/1/2020,0,1,0,6/27/2020 2:57,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/18/2020,0,1,0,6/27/2020 2:57,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/21/2020,0,1,0,6/27/2020 2:58,
+Indonesian,Phnom Penh,Male,22,1,0,,1,0,7/1/2020 1:18,0,1,0,6/27/2020 2:59,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/14/2020,0,1,0,6/27/2020 3:00,6/27/2020 3:03
+Khmer,Phnom Penh,Male,23,1,0,,1,0,,0,1,0,6/28/2020 1:21,
+Khmer,Phnom Penh,Male,15,1,0,,1,0,7/13/2020 5:53,0,1,0,6/28/2020 1:22,6/28/2020 1:32
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/21/2020,0,1,0,7/13/2020 5:13,7/14/2020 2:24
+Khmer,Phnom Penh,Male,29,1,0,,1,0,,0,1,0,7/13/2020 5:15,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/13/2020 5:18,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,,0,1,0,7/13/2020 5:19,
+Khmer,Phnom Penh,Male,21,1,0,,1,0,7/19/2020 12:28,0,1,0,7/13/2020 5:20,
+Khmer,Phnom Penh,Male,31,1,0,,1,0,,0,1,0,7/13/2020 5:22,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/1/2020,0,1,0,7/13/2020 5:23,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/1/2020,0,1,0,7/13/2020 5:25,
+Khmer,Phnom Penh,Male,30,1,0,,1,0,7/19/2020 12:29,0,1,0,7/13/2020 5:25,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/6/2020,0,1,0,7/13/2020 5:27,
+Khmer,Phnom Penh,Male,21,1,0,,1,0,7/19/2020 12:29,0,1,0,7/13/2020 5:28,
+Khmer,Phnom Penh,Male,28,1,0,,1,0,,0,1,0,7/13/2020 5:32,
+Khmer,Phnom Penh,Male,33,1,0,,1,0,8/1/2020,0,1,0,7/13/2020 5:34,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/13/2020 5:35,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,8/1/2020,0,1,0,7/13/2020 5:37,7/14/2020 1:58
+Khmer,Phnom Penh,Male,24,1,0,,1,0,,0,1,0,7/14/2020 1:51,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,,0,1,0,7/14/2020 1:53,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,,0,1,0,7/14/2020 1:53,7/14/2020 3:45
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/14/2020 1:54,7/14/2020 3:50
+Khmer,Phnom Penh,Male,27,1,0,,1,0,,0,1,0,7/14/2020 1:54,7/14/2020 3:52
+Khmer,Phnom Penh,Male,28,1,0,,1,0,,0,1,0,7/14/2020 1:54,7/14/2020 3:54
+Khmer,Phnom Penh,Male,28,1,0,,1,0,8/9/2020,0,1,0,7/14/2020 1:55,7/14/2020 3:56
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/1/2020,0,1,0,7/14/2020 1:55,7/14/2020 3:59
+Khmer,Phnom Penh,Male,30,1,0,,1,0,,0,1,0,7/14/2020 1:56,7/14/2020 4:01
+Khmer,Phnom Penh,Male,25,1,0,,1,0,,0,1,0,7/16/2020 1:48,
+Khmer,Phnom Penh,Male,34,1,0,,1,0,,0,1,0,7/17/2020 11:38,
+Khmer,Phnom Penh,Male,5,1,0,,1,0,,0,1,0,7/17/2020 11:39,
+Khmer,Phnom Penh,Female,60,1,0,,1,0,8/4/2020,0,1,0,7/17/2020 11:41,
+American,Phnom Penh,Female,0,1,0,,1,0,,0,1,0,7/17/2020 11:44,
+American,Phnom Penh,Female,0,1,0,,1,0,8/4/2020,0,1,0,7/17/2020 11:44,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/18/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,32,1,0,,1,0,8/9/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,31,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/18/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,28,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/14/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,9/2/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/18/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/15/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/1/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/12/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/18/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,32,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,30,1,0,,1,0,,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/12/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,65,1,0,,1,0,8/15/2020,0,1,0,7/21/2020,
+Khmer,Phnom Penh,Male,28,1,0,,1,0,8/1/2020,0,1,0,7/23/2020,
+Khmer,Phnom Penh,Male,37,1,0,,1,0,8/12/2020,0,1,0,7/23/2020,
+Khmer,Phnom Penh,Male,28,1,0,,1,0,8/1/2020,0,1,0,7/23/2020,
+Khmer,Phnom Penh,Male,47,1,0,,1,0,8/1/2020,0,1,0,7/23/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/7/2020,0,1,0,7/23/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/7/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,28,1,0,,1,0,,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/7/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Female,24,1,0,,1,0,,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/8/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,38,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/7/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/15/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,30,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/3/2020,0,1,0,7/25/2020,
+Khmer,Phnom Penh,Female,38,1,0,,1,0,8/2/2020,0,1,0,7/25/2020,
+Indonesian,Phnom Penh,Male,37,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Indonesian,Phnom Penh,Male,32,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Indonesian,Phnom Penh,Male,35,1,0,,1,0,8/1/2020,0,1,0,7/25/2020,
+Indonesian,Phnom Penh,Female,53,1,0,,1,0,8/6/2020,0,1,0,7/25/2020,
+Indian,Phnom Penh,Male,32,1,0,,1,0,8/6/2020,0,1,0,7/28/2020,
+Khmer,Phnom Penh,Male,49,1,0,,1,0,8/6/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,47,1,0,,1,0,8/6/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,31,1,0,,1,0,8/14/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,43,1,0,,1,0,8/6/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,24,1,0,,1,0,8/15/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/3/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,36,1,0,,1,0,8/6/2020,0,1,0,7/29/2020,
+American,Phnom Penh,Male,0,1,0,,1,0,8/3/2020,0,1,0,7/30/2020,
+Indonesian,Phnom Penh,Male,18,1,0,,1,0,9/10/2020,0,1,0,7/30/2020,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,8/1/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,30,1,0,,1,0,8/8/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,25,1,0,,1,0,8/10/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,8/7/2020,0,1,0,7/29/2020,
+Khmer,Phnom Penh,Male,57,1,0,,1,0,8/20/2020,0,1,0,8/2/2020,
+American,Phnom Penh,Male,0,1,0,,1,0,8/6/2020,0,1,0,8/3/2020,
+Khmer,Phnom Penh,Male,34,1,0,,1,0,8/15/2020,0,1,0,8/4/2020,
+Kazakhstan,Phnom Penh,Female,42,1,0,,1,0,8/19/2020,0,1,0,8/4/2020,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,8/20/2020,0,1,0,8/7/2020,
+Khmer,Phnom Penh,Male,26,1,0,,1,0,8/13/2020,0,1,0,8/7/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,8/25/2020,0,1,0,8/7/2020,
+Khmer,Phnom Penh,Female,27,1,0,,1,0,8/15/2020,0,1,0,8/8/2020,
+Canadian,Phnom Penh,Female,41,1,0,,1,0,8/15/2020,0,1,0,8/8/2020,
+Khmer,Thbong Khmom,Male,26,1,0,,1,0,8/20/2020,0,1,0,8/9/2020,
+Khmer,Thbong Khmom,Male,26,1,0,,1,0,8/20/2020,0,1,0,8/9/2020,
+Khmer,Thbong Khmom,Male,23,1,0,,1,0,8/20/2020,0,1,0,8/9/2020,
+Chinese,Phnom Penh,Female,24,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,24,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,24,1,0,,1,0,9/2/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,20,1,0,,1,0,8/27/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,31,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,30,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,35,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,27,1,0,,1,0,9/2/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,20,1,0,,1,0,9/2/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,28,1,0,,1,0,8/30/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,23,1,0,,1,0,9/2/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,31,1,0,,1,0,,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,29,1,0,,1,0,,0,1,0,8/10/2020,
+Khmer,Phnom Penh,Female,13,1,0,,1,0,8/15/2020,0,1,0,8/10/2020,
+Khmer,Phnom Penh,Female,48,1,0,,1,0,8/18/2020,0,1,0,8/10/2020,
+Chinese,Phnom Penh,Male,22,1,0,,1,0,9/3/2020,0,1,0,8/11/2020,
+American,Phnom Penh,Female,25,1,0,,1,0,8/15/2020,0,1,0,8/11/2020,
+Khmer,Kampong Speu,Male,25,1,0,,1,0,8/14/2020,0,1,0,8/12/2020,
+Khmer,Kampong Speu,Male,30,1,0,,1,0,8/19/2020,0,1,0,8/12/2020,
+Khmer,Kampong Speu,Male,30,1,0,,1,0,8/21/2020,0,1,0,8/12/2020,
+Khmer,Thbong Khmom,Male,27,1,0,,1,0,8/20/2020,0,1,0,8/12/2020,
+Khmer,Phnom Penh,Female,51,1,0,,1,0,8/21/2020,0,1,0,8/13/2020,
+French,Phnom Penh,Male,30,1,0,,1,0,9/7/2020,0,1,0,8/11/2020,
+English,Phnom Penh,Male,54,1,0,,1,0,9/27/2020,0,1,0,9/12/2020,
+Hungarian,Siem Reap,Male,70,1,0,,1,0,10/10/2020,0,1,0,9/27/2020,
+Chinese,Phnom Penh,Male,28,1,0,,1,0,10/5/2020,0,1,0,9/28/2020,
+Khmer,Battambang,Female,33,1,0,,1,0,10/8/2020,0,1,0,10/1/2020,
+French,Siem Reap,Male,27,1,0,,1,0,10/16/2020,0,1,0,10/4/2020,
+Indian,Phnom Penh,Female,34,1,0,,1,0,10/16/2020,0,1,0,10/4/2020,
+Indonesian,Phnom Penh,Male,26,1,0,,1,0,10/23/2020,0,1,0,10/7/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,10/23/2020,0,1,0,10/8/2020,
+French,Phnom Penh,Female,33,1,0,,1,0,10/23/2020,0,1,0,10/9/2020,
+Khmer,Phnom Penh,Male,33,1,0,,1,0,11/4/2020,0,1,0,10/19/2020,
+Khmer,Phnom Penh,Female,32,1,0,,1,0,11/6/2020,0,1,0,10/19/2020,
+Poland,Phnom Penh,Male,47,1,0,,1,0,11/4/2020,0,1,0,10/20/2020,
+French,Phnom Penh,Male,37,1,0,,1,0,11/4/2020,0,1,0,10/23/2020,
+French,Phnom Penh,Female,23,1,0,,1,0,11/12/2020,0,1,0,10/26/2020,
+Khmer,Phnom Penh,Male,34,1,0,,1,0,11/24/2020,0,1,0,10/27/2020,
+Khmer,Phnom Penh,Male,23,1,0,,1,0,11/6/2020,0,1,0,10/27/2020,
+Khmer,Phnom Penh,Male,51,1,0,,1,0,11/30/2020,0,1,0,10/29/2020,
+Khmer,Phnom Penh,Female,31,1,0,,1,0,11/16/2020,0,1,0,11/1/2020,
+Indian,Phnom Penh,Male,33,1,0,,1,0,11/23/2020,0,1,0,11/6/2020,
+Pakistani,Phnom Penh,Male,35,1,0,,1,0,11/19/2020,0,1,0,11/6/2020,
+Khmer,Phnom Penh,Male,31,1,0,,1,0,11/28/2020,1,0,0,11/7/2020,
+Khmer,Phnom Penh,Male,29,1,0,,1,0,11/19/2020,0,1,0,11/8/2020,
+Khmer,Phnom Penh,Male,38,1,0,,1,0,11/19/2020,0,1,0,11/8/2020,
+Khmer,Phnom Penh,Male,47,1,0,,1,0,11/16/2020,1,0,0,11/9/2020,
+Khmer,Phnom Penh,Male,47,1,0,,1,0,11/21/2020,1,0,0,11/9/2020,
+Hungarian,Phnom Penh,Male,68,1,0,,1,0,11/30/2020,1,0,0,11/9/2020,
+American,Phnom Penh,Female,35,1,0,,1,0,11/27/2020,0,1,0,11/10/2020,
+American,Phnom Penh,Male,69,1,0,,1,0,11/24/2020,0,1,0,11/13/2020,
+American,Phnom Penh,Male,56,1,0,,0,0,,0,1,1,11/16/2020,
+Khmer,Phnom Penh,Female,49,1,0,,1,0,12/4/2020,0,1,0,11/17/2020,
+Khmer,Phnom Penh,Male,59,1,0,,1,0,11/28/2020,0,1,0,11/20/2020,
+Khmer,Phnom Penh,Male,27,1,0,,1,0,11/30/2020,0,1,0,11/21/2020,
+Nepali,Phnom Penh,Male,37,1,0,,0,0,,0,1,1,11/24/2020,
+Khmer,Phnom Penh,Female,62,1,0,,0,0,,0,1,1,11/24/2020,
+Khmer,Phnom Penh,Female,31,1,0,,0,0,,0,1,1,11/28/2020,
+Khmer,Phnom Penh,Female,56,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Male,,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Female,36,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Male,12,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Male,36,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Male,30,1,0,,0,0,,1,0,1,11/28/2020,
+Khmer,Phnom Penh,Female,36,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Female,24,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Female,45,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Female,30,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Female,,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Male,23,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Male,7,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Male,34,1,0,,0,0,,1,0,1,11/29/2020,
+Khmer,Phnom Penh,Female,64,1,0,,0,0,,1,0,1,11/30/2020,
+Khmer,Phnom Penh,Female,25,1,0,,0,0,,1,0,1,11/30/2020,
+Khmer,Phnom Penh,Male,0.7,1,0,,0,0,,1,0,1,11/30/2020,
+Khmer,Phnom Penh,Male,26,1,0,,0,0,,0,1,1,12/1/2020,
+Khmer,Phnom Penh,Male,46,1,0,,0,0,,0,1,1,12/1/2020,
+Khmer,Phnom Penh,Female,35,1,0,,0,0,,0,1,1,12/1/2020,
+Khmer,Phnom Penh,Male,23,1,0,,0,0,,1,0,1,12/2/2020,
+Khmer,Phnom Penh,Female,21,1,0,,0,0,,1,0,1,12/2/2020,
+Khmer,Phnom Penh,Male,39,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Female,32,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Male,3,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Male,22,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Male,75,1,0,,0,0,,0,1,1,12/3/2020,
+American,Phnom Penh,Male,59,1,0,,0,0,,0,1,1,12/3/2020,
+American,Phnom Penh,Male,42,1,0,,0,0,,0,1,1,12/3/2020,
+American,Phnom Penh,Male,49,1,0,,0,0,,0,1,1,12/3/2020,
+Khmer,Phnom Penh,Female,22,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Female,28,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Male,20,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Female,24,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Male,23,1,0,,0,0,,1,0,1,12/3/2020,
+Khmer,Phnom Penh,Female,23,1,0,,0,0,,1,0,1,12/3/2020,
